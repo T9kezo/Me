@@ -54,6 +54,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/T9kezo/T9kezo/output/snake.svg" alt="Snake animation" />
-
 ###
